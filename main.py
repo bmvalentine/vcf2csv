@@ -60,7 +60,7 @@ def print_file(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    #print_hi('Preston')
-    print_file("Brandy Contact Backup 2022-11-27.vcf")
+    print_hi('Preston')
+    #print_file("Brandy Contact Backup 2022-11-27.vcf")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
